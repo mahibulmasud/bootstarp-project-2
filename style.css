@@ -22,7 +22,10 @@ span.carousel-control-prev-icon {
 span.carousel-control-next-icon {
     display: none;
 }
-
+#logo .bi{
+    font-size: 50px;
+    color: red;
+}
 /*  */
 
 .recent-work-hr {
