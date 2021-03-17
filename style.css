@@ -1,0 +1,63 @@
+#nav .logo {
+    text-decoration: none;
+    color: black;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+#banner .carousel-inner img {
+    height: 91vh;
+}
+
+#banner .carousel-indicators button {
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+}
+
+span.carousel-control-prev-icon {
+    display: none;
+}
+
+span.carousel-control-next-icon {
+    display: none;
+}
+
+/*  */
+
+.recent-work-hr {
+    border: 2px solid red;
+    width: 20%;
+    margin: 0 auto;
+}
+#counter .backgound{
+    background-image: url('images/counter-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    background-color: #171717bf;
+    background-attachment: fixed;
+}
+#counter .bi{
+    font-size: 50px;
+}
+#counter h1{
+    font-size: 50px;
+}
+#service .bi{
+    font-size: 50px;
+    color: red;
+}
+#socail-share .bi{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 30px;
+}
+#footer .logo {
+    text-decoration: none;
+    color: white;
+    font-family: cursive;
+    font-size: 30px;
+}
